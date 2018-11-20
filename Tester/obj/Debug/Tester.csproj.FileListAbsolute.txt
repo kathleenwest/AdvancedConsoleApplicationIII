@@ -1,0 +1,13 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\Lab3\Tester\bin\Debug\Tester.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\Lab3\Tester\bin\Debug\Tester.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\Lab3\Tester\bin\Debug\Tester.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\Lab3\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\Lab3\Tester\obj\Debug\Tester.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\Lab3\Tester\obj\Debug\Tester.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\AdvConsoleAppIII\Tester\bin\Debug\Tester.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\AdvConsoleAppIII\Tester\bin\Debug\Tester.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\AdvConsoleAppIII\Tester\bin\Debug\Tester.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\AdvConsoleAppIII\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\AdvConsoleAppIII\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\AdvConsoleAppIII\Tester\obj\Debug\Tester.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming III Memory Management and Multi-threading\Lab3\AdvConsoleAppIII\Tester\obj\Debug\Tester.pdb
